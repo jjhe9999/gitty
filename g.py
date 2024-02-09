@@ -1,3 +1,3 @@
-print('hhhhhhi')
-print('hi again')
-print('bye')
+print('hi')
+print('poop')
+
